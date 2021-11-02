@@ -1,6 +1,6 @@
 # Dragon Quest TEXT
 
-##*OPEN IN RAW FORMAT*
+##OPEN IN RAW FORMAT
 
 Dragon Quest is a fantasy Role Playing Game first introduced in 1986, and this fan-made version will adapt its turn based combat mechanics into a text-based adventure game.
 
